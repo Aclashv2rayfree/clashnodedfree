@@ -2,10 +2,6 @@
 
 免费科学上网、科学上网-翻墙、免费翻墙、一键翻墙浏览器、VPS、VPN、小火煎、油管、高效节点、软件、免费shadowsocks/ss/ssr/v2ray/hy2/trojan/vmess/vless/hysteria2/reality节点，免费自由上网、 fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、一键导入、永久免费、免费快速稳定节点、支持奈飞、chatgpt、youtube、油管、Facebook、脸书、instagram、WhatsApp、Telegram、纸飞机、tg、推特、Twitter
 
-推荐使用freevpn
-
-https://github.com/asdsadsddas123/freevpn
-
 vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMTk0LjE5NS4xMTcuNjYiLCJhZGQiOiIxOTQuMTk1LjExNy42NiIsInBvcnQiOiIyOTE1NSIsImlkIjoiNWMyZWU4NDItOGJmZi00ZWI2LTk4ZWItOTgxYWM4ZWVmMzI1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6IiJ9
 
 vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMTcyLjEwNC4xNTUuMTM0IiwiYWRkIjoiMTcyLjEwNC4xNTUuMTM0IiwicG9ydCI6IjI5MTU1IiwiaWQiOiI1YzJlZTg0Mi04YmZmLTRlYjYtOThlYi05ODFhYzhlZWYzMjUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIn0=
