@@ -40,4 +40,4 @@ vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMTM5LjE2Mi43NS4xMTMiLCJhZGQiOiIxMzkuMTYy
 
 [分享免费vpn](https://github.com/asdsadsddas123/freevpn) 
 
-更新时间 2025-05-10 13:56:00
+更新时间 2025-05-10 14:00:00
