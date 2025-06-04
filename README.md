@@ -30,4 +30,4 @@ trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.94:443?type=ws&sni=ust
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-04 02:29:45 
+### 更新时间 2025-06-04 02:30:00 
