@@ -22,6 +22,7 @@
 免费节点
 
 ```
+vless://3f4b57a0-f57c-4a8b-8c00-fa255eec1c79@104.17.252.50:80?security=none&type=ws&host=us.xyxy.dpdns.org&encryption=none&type=ws&path=%2F&sni=us.xyxy.dpdns.org&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -29,4 +30,4 @@
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 20:31:45 
+### 更新时间 2025-06-03 20:32:25 
