@@ -22,7 +22,6 @@
 免费节点
 
 ```
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?security=none&type=ws&host=ov-canada1.09vpn.com&encryption=none&type=ws&path=%2Fvless%2F&sni=ov-canada1.09vpn.com&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_IN_%E5%8D%B0%E5%BA%A6-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -30,4 +29,4 @@ vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?security=none&type
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-04 04:01:45 
+### 更新时间 2025-06-04 04:02:26 
