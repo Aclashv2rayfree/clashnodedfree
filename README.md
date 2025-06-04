@@ -22,6 +22,7 @@
 免费节点
 
 ```
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.94:443?type=ws&sni=ustrorxur6vt79grpe.jjjiedian6j4tblb.com&path=/images&host=ustrorxur6vt79grpe.jjjiedian6j4tblb.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -29,4 +30,4 @@
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-04 01:01:45 
+### 更新时间 2025-06-04 01:02:29 
