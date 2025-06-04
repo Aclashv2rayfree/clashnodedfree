@@ -30,4 +30,4 @@ vless://3f4b57a0-f57c-4a8b-8c00-fa255eec1c79@104.17.252.50:80?security=none&type
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 21:50:00 
+### 更新时间 2025-06-03 21:50:45 
