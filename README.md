@@ -126,4 +126,4 @@ vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@NUFiLTER.fastly80-2.hosting-ip.com:
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-06 11:11:45 
+### 更新时间 2025-06-06 11:12:00 
