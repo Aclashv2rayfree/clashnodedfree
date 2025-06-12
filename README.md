@@ -131,4 +131,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.133:34045?allowInsecure=1
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-12 03:37:45 
+### 更新时间 2025-06-12 03:38:00 
