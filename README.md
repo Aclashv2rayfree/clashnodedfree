@@ -38,7 +38,6 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%8C%803-SK%20%7C%20%205.0MB/s%7C0%25%7CYoutube%7COp...
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?allowInsecure=1&sni=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=madcity2.777999.lol&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%202.0MB/s%7C0%25%7CNetflix%7CDis...
 vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%202.6MB/s%7C20%25%7COpenai
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.86.162:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%202.5MB/s%7C30%25%7COpenai
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#%F0%9F%87%BA%F0%9F%87%B818%20%7C%20%202.8MB/s%7C0%25%7CNetflix%7COpe...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?allowInsecure=1&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=/security=tls#%F0%9F%87%AB%F0%9F%87%B76%20%7C%20%201.5MB/s%7C36%25%7COpenai
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?allowInsecure=1&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=/security=tls#%F0%9F%87%AB%F0%9F%87%B77%20%7C%20%203.3MB/s%7C36%25%7COpenai
@@ -65,9 +64,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=ree
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@43.203.242.204:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjE3MCIsICJwb3J0IjogNDYyMTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMWVjYTcwNi0xYWFlLTQyZDMtYmFiMC02OTk5NWQ3YjAyM2QifQ==
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?allowInsecure=0&sni=ZZzzzZZ.890601.XYZ&type=ws&host=ZZzzzZZ.890601.XYZ&path=/l96MZ8se5Kl2p8BiMhP42l#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.229.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0001
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@94.140.0.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0002
@@ -288,4 +285,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.189.251:8880?allowInsecure=
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-22 21:31:45 
+### 更新时间 2025-06-22 21:33:31 
