@@ -110,4 +110,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@144.202.114.28:34045?allowInsecure=
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.242.72:443?allowInsecure=0&sni=vless3-5xq.pages.dev&type=ws&host=vless3-5xq.pages.dev&path=/?ed=2560fp=random&security=tls#US_speednode_0250
 trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.191.140:443?allowInsecure=0&sni=DdDdddDDdF.999824.Xyz&type=ws&host=DdDdddDDdF.999824.Xyz&path=/dwPcFaK3QxWRQTqot0LE#US_speednode_0253
 ```
-Update time 2025-06-28 08:12:45 
+Update time 2025-06-28 08:13:00 
